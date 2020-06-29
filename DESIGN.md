@@ -40,9 +40,9 @@ All the assets for the project can be found in the [DESIGN](./DESIGN/) folder.
 #### 🗒 Notes
 
 1. Mostly all elements must be kept centered to the screen.
-1. Use <code>MediaQuery</code> wherever possible, to make sure that the widgets are responsive.
-1. If you can, Try adding Hero animations, to key elements.
-1. Bring out that inner artist of yours, and show your creativity! 😄
+2. Use <code>MediaQuery</code> wherever possible, to make sure that the widgets are responsive.
+3. If you can, Try adding Hero animations, to key elements.
+4. Bring out that inner artist of yours, and show your creativity! 😄
 
 <br><br>
 <img width="25%" src="https://img.shields.io/badge/Designed%20By-ishandeveloper-blue?style=for-the-badge&logo=github"></img>
